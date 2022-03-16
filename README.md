@@ -1,1 +1,1 @@
-# Programmers Algorithm with JavaScript
+# Programmers Algorithm solutions with JavaScript
