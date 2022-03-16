@@ -1,1 +1,1 @@
-# Programmers Algorithm Test with JavaScript
+# Programmers Algorithm with JavaScript
