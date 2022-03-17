@@ -1,4 +1,5 @@
 // 스택/큐: 다리를 지나는 트럭
+// bridge라는 배열을 선언해 트럭이 지나는 다리의 모습을 구현
 
 function solution(bridge_length, weight, truck_weights) {
     let time = 0;
