@@ -1,4 +1,4 @@
-// 스택/큐 - 프린터
+// 스택/큐: 프린터
 // list를 선언하고 우선순위와 위치를 저장하고, 배열을 순회하며 우선순위보다 큰 게 있으면 list 뒤에, 아니라면 새 배열에 삽입
 
 function solution(priorities, location) {
