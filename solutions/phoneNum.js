@@ -1,4 +1,4 @@
-// 해시
+// 해시: 전화번호 목록
 
 function solution(phone_book) {
     // hashMap 객체를 만든 뒤 phone_book의 각 전화번호를 키(key) 이름으로, 값은 1로 하여 객체에 추가한다.
