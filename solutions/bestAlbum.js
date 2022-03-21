@@ -31,9 +31,11 @@ function solution(genres, plays) {
         }
     });
     
+    // 장르 별 횟수를 저장한 배열
     genrePlayCount.sort((a, b) => b.totalPlayCount - a.totalPlayCount);
     
     let answer = [];
+    
     genrePlayCount.forEach(genrePlay => {
         let thisGenreSongs = songs.filter(song => genrePlay.genre === song.genre);
         thisGenreSongs.sort((a, b) => b.playCount - a.playCount);
