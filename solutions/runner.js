@@ -3,7 +3,7 @@
 function solution(participant, completion) {
     var answer = '';
     
-    // 오름차순 정렬
+    // 오름차순 정렬, 정렬된 상태로 저장됨
     participant.sort();
     completion.sort();
     
